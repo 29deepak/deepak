@@ -1,10 +1,10 @@
 {
   "files": {
     "main.css": "/deepak/static/css/main.3b040a1f.css",
-    "main.js": "/deepak/static/js/main.d59400ca.js",
+    "main.js": "/deepak/static/js/main.5aaf227e.js",
     "static/media/deepak.png": "/deepak/static/media/deepak.d59f13ddec003e5760e8.png",
     "static/media/123.png": "/deepak/static/media/123.07b30fbb1c5479729386.png",
-    "static/media/deepak(cv).pdf": "/deepak/static/media/deepak(cv).c1eef92dd356fb3cfa07.pdf",
+    "static/media/deepak(cv).pdf": "/deepak/static/media/deepak(cv).d474058dea58871d1c71.pdf",
     "static/media/1234.png": "/deepak/static/media/1234.29a34f5b87074765afff.png",
     "static/media/groupchat.jpeg": "/deepak/static/media/groupchat.d4267c24f0f06ea13c4d.jpeg",
     "static/media/ecommerce.jpeg": "/deepak/static/media/ecommerce.e8cfe739eb1aa2dbc1f4.jpeg",
@@ -12,10 +12,10 @@
     "static/media/expense.jpeg": "/deepak/static/media/expense.8de22e2e8bcc495dc846.jpeg",
     "index.html": "/deepak/index.html",
     "main.3b040a1f.css.map": "/deepak/static/css/main.3b040a1f.css.map",
-    "main.d59400ca.js.map": "/deepak/static/js/main.d59400ca.js.map"
+    "main.5aaf227e.js.map": "/deepak/static/js/main.5aaf227e.js.map"
   },
   "entrypoints": [
     "static/css/main.3b040a1f.css",
-    "static/js/main.d59400ca.js"
+    "static/js/main.5aaf227e.js"
   ]
 }
